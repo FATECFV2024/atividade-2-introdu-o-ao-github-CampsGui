@@ -1,0 +1,28 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Ra_2920482411018",
+      "request": "launch",
+      "mainClass": "Ra_2920482411018",
+      "projectName": "atividade-2-introdu-o-ao-github-CampsGui_e9acb7ea"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "atividade-2-introdu-o-ao-github-CampsGui_e9acb7ea"
+    }
+  ]
+}
